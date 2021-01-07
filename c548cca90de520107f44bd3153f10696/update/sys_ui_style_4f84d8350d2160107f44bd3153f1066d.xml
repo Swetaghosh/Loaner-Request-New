@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>item_type</element>
+        <name>x_cdltd_loaner_new_loaner_request_new</name>
+        <style>background-color: PeachPuff;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-07 04:55:26</sys_created_on>
+        <sys_id>4f84d8350d2160107f44bd3153f1066d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_loaner_new_loaner_request_new</sys_name>
+        <sys_package display_value="Loaner Request new" source="x_cdltd_loaner_new">c548cca90de520107f44bd3153f10696</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request new">c548cca90de520107f44bd3153f10696</sys_scope>
+        <sys_update_name>sys_ui_style_4f84d8350d2160107f44bd3153f1066d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-07 05:00:59</sys_updated_on>
+        <value>cmdb_ci_computer</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=4f84d8350d2160107f44bd3153f1066d"/>
+</record_update>
