@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Loaner Request new">ce5988e90de520107f44bd3153f1066b</application>
+        <application display_value="Loaner Task">7c7899b90da160107f44bd3153f106da</application>
         <assessment/>
         <device_type/>
         <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Open</mobile_title>
+        <mobile_title>Loaner Tasks</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_cdltd_loaner_new_loaner_request_new</name>
-        <order>300</order>
+        <name>x_cdltd_loaner_new_loaner_task</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparam_id=b9b22e860d6d60107f44bd3153f10629</query>
+        <query/>
         <report/>
-        <roles/>
+        <roles>x_cdltd_loaner_new.loaner_task_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-06 09:26:39</sys_created_on>
+        <sys_created_on>2021-01-07 09:50:46</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ca590ce90de520107f44bd3153f10697</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Open</sys_name>
+        <sys_id>897899b90da160107f44bd3153f106ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request new" source="x_cdltd_loaner_new">c548cca90de520107f44bd3153f10696</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request new">c548cca90de520107f44bd3153f10696</sys_scope>
-        <sys_update_name>sys_app_module_ca590ce90de520107f44bd3153f10697</sys_update_name>
+        <sys_update_name>sys_app_module_897899b90da160107f44bd3153f106ea</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-08 10:15:38</sys_updated_on>
+        <sys_updated_on>2021-01-07 09:50:46</sys_updated_on>
         <timeline_page/>
-        <title>Open</title>
+        <title>Loaner Tasks</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
